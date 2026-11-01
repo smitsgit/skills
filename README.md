@@ -43,6 +43,7 @@ skills directory listed above.
 
 | Skill | Description |
 |-------|-------------|
+| [overnight-harness](skills/overnight-harness/SKILL.md) | Runs an unattended overnight coding task: asks 4 intake questions, sets up a verify command and progress tracking, loops plan/build/verify/fix, and writes a morning brief. |
 | [hello-world](skills/hello-world/SKILL.md) | Test skill. Says hello and checks that the skill and its bundled files installed correctly. |
 
 Test it after installing by asking your agent: **"run the hello world skill"**.
